@@ -1,6 +1,6 @@
 #This script activates the webcam
 #This means YOUR webcam (if you're reading this)
-
+#Check it!
 import cv2
 
 
